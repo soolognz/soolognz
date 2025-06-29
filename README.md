@@ -1,4 +1,7 @@
-<img width="100%" height="auto" src="https://github.com/soolognz/logelit31337/blob/main/spy-x-family-red-black.png">
+<div align="center">
+  <img width="86%" height="auto" src="https://github.com/soolognz/logelit31337/blob/main/spy-x-family-red-black.png">
+
+</div>
 
 <h1 align="center">Hi there, I'm soolog <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="25" height="25" />
 </h1>
